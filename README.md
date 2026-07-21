@@ -1,5 +1,5 @@
 ﻿# PRACT_LAB_CAFEHACK
-# Sistema de Procesamiento de Pagos Multicanal - Cafeteria
+# Sistema de Procesamiento de Pagos Multicanal - CafeteriaApp
 
 ## Descripción del Problema
 La cafetería "CafeHack" ha experimentado un crecimiento acelerado en sus ventas, permitiendo a los clientes realizar sus pedidos tanto en la caja física como a través de su aplicación móvil y plataforma web. Sin embargo, este crecimiento ha presentado un desafío técnico crítico en el módulo de cobros.
