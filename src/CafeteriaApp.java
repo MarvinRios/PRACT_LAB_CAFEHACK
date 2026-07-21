@@ -5,9 +5,9 @@ import factories.FactoryPayWeb;
 
 public class CafeteriaApp {
     public static void main(String[] args) {
-        System.out.println("=========================================");
-        System.out.println("   BIENVENIDOS A COFFEE CODE SHOP   ");
-        System.out.println("=========================================");
+        System.out.println("============================");
+        System.out.println("   BIENVENIDOS A CAFEHACK   ");
+        System.out.println("============================");
 
         FactoryPay fabrica;
 
