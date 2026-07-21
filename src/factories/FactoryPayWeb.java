@@ -1,3 +1,5 @@
+package factories;
+
 public class FactoryPayWeb extends FactoryPay {
     private double monto;
     private String emailCliente;

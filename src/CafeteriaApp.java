@@ -1,3 +1,8 @@
+import factories.FactoryPay;
+import factories.FactoryPayPOS;
+import factories.FactoryPayQR;
+import factories.FactoryPayWeb;
+
 public class CafeteriaApp {
     public static void main(String[] args) {
         System.out.println("=========================================");

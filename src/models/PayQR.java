@@ -1,3 +1,5 @@
+package models;
+
 public class PayQR extends Pay {
     private String numeroTelefono;
     private String proveedor;

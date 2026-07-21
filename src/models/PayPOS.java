@@ -1,3 +1,5 @@
+package models;
+
 public class PayPOS extends Pay {
     private String numeroTarjeta;
 

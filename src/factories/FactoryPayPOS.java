@@ -1,3 +1,5 @@
+package factories;
+
 public class FactoryPayPOS extends FactoryPay {
     private double monto;
     private String numeroTarjeta;

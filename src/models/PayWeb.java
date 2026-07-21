@@ -1,3 +1,5 @@
+package models;
+
 public class PayWeb extends Pay {
     private String emailCliente;
     private String tokenTarjeta;

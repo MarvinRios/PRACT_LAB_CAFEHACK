@@ -1,3 +1,5 @@
+package factories;
+
 public class FactoryPayQR extends FactoryPay {
     private double monto;
     private String numeroTelefono;
