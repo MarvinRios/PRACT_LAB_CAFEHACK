@@ -1,5 +1,8 @@
 package factories;
 
+import models.Pay;
+import models.PayPOS;
+
 public class FactoryPayPOS extends FactoryPay {
     private double monto;
     private String numeroTarjeta;

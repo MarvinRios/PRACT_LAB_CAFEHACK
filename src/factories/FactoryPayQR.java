@@ -1,5 +1,8 @@
 package factories;
 
+import models.Pay;
+import models.PayQR;
+
 public class FactoryPayQR extends FactoryPay {
     private double monto;
     private String numeroTelefono;

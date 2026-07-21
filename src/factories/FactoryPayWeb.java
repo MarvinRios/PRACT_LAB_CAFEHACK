@@ -1,5 +1,8 @@
 package factories;
 
+import models.Pay;
+import models.PayWeb;
+
 public class FactoryPayWeb extends FactoryPay {
     private double monto;
     private String emailCliente;

@@ -1,5 +1,7 @@
 package factories;
 
+import models.Pay;
+
 public abstract class FactoryPay {
     public abstract Pay crearPago();
 
